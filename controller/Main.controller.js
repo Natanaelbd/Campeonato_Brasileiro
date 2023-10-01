@@ -59,7 +59,7 @@ sap.ui.define([
                     async: true,
                     crossDomain : true,
                     headers:{
-                        "Authorization": "Bearer live_a94346cdcd3f9165b61d450982ac4c"
+                        "Authorization": "API_KEY"
                     }
                 };
                 
@@ -89,7 +89,7 @@ sap.ui.define([
                     async: true,
                     crossDomain : true,
                     headers:{
-                        "Authorization": "Bearer live_a94346cdcd3f9165b61d450982ac4c"
+                        "Authorization": "API_KEY"
                     }
                 };
                 
@@ -118,7 +118,7 @@ sap.ui.define([
                     async: true,
                     crossDomain : true,
                     headers:{
-                        "Authorization": "Bearer live_a94346cdcd3f9165b61d450982ac4c"
+                        "Authorization": "API_KEY"
                     }
                 };
                 
